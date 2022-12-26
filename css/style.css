@@ -49,6 +49,7 @@ body {
 .hero .wrapper {
   margin-top: 145px;
   display: flex;
+  position: relative;
 }
 .wrapper__left {
   max-width: 530px;
